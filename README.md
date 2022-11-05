@@ -70,3 +70,6 @@ must be followed, it is also important for us to evaluate your CSS knowledge.
 3. Visual aesthetics (the UI should be as close as possible to the given design).
 4. Technology choices (e.g. ES 6/7 over ES 5 - avoid mixing of ES 5/6/7).
 5. Your understanding of the problem statement.
+
+
+## To complete your homework, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it. Only commits before the due date would be considered.
