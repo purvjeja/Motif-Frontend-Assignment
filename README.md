@@ -72,5 +72,13 @@ must be followed, it is also important for us to evaluate your CSS knowledge.
 4. Technology choices (e.g. ES 6/7 over ES 5 - avoid mixing of ES 5/6/7).
 5. Your understanding of the problem statement.
 
+##  API Sources 
+
+1. Email List API's: 
+GET https://6366339879b0914b75cba9c2.mockapi.io/api/email
+
+2. Email Body API:
+https://6366339879b0914b75cba9c2.mockapi.io/api/email/<email-item-id>
+e.g. GET https://6366339879b0914b75cba9c2.mockapi.io/api/email/3
 
 ## To complete your homework, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it. Only commits before the due date would be considered.
