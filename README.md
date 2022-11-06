@@ -51,6 +51,7 @@ has 3 sections:
 1. Email list could be long and hence is paginated. There are 2 pages i.e. page 1 and page
 2 which can be accessed via the APIs provided below.
 2. Provide search functionality on frontend using the email contents.
+3. Exception handling within components and API interactions.
 
 
 ## Points to consider:
