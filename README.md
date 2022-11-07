@@ -45,7 +45,8 @@ has 3 sections:
 5. Allow email to be marked favorite in the body section of the email
 6. Filter emails marked as favorite, read and unread
 7. UI should be as close to the mocks provided
-8. The date should be rendered in format dd/MM/yyyy hh:mm a
+8. The date should be rendered in format dd/MM/yyyy hh:mm .
+9. Your code should be deployed and available through any of the tools like Heroku, Netlify etc.
 
 ## Good to Have:
 1. Email list could be long and hence is paginated. There are 2 pages i.e. page 1 and page
@@ -69,8 +70,7 @@ must be followed, it is also important for us to evaluate your CSS knowledge.
 1. Correctness and completeness of the solution.
 2. Code design and quality.
 3. Visual aesthetics (the UI should be as close as possible to the given design).
-4. Technology choices (e.g. ES 6/7 over ES 5 - avoid mixing of ES 5/6/7).
-5. Your understanding of the problem statement.
+4. Your understanding of the problem statement.
 
 ##  API Sources 
 
@@ -81,4 +81,4 @@ GET https://6366339879b0914b75cba9c2.mockapi.io/api/email
 https://6366339879b0914b75cba9c2.mockapi.io/api/email/<email-item-id>
 e.g. GET https://6366339879b0914b75cba9c2.mockapi.io/api/email/3
 
-## To complete your homework, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it. Only commits before the due date would be considered.
+## To complete your assignment, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it. Only commits before the due date would be considered.
