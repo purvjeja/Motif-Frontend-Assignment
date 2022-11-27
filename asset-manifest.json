@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Motif-Frontend-Assignment%20/static/js/main.00c56b3d.js",
-    "index.html": "/Motif-Frontend-Assignment%20/index.html",
-    "main.00c56b3d.js.map": "/Motif-Frontend-Assignment%20/static/js/main.00c56b3d.js.map"
+    "main.js": "/Motif-Frontend-Assignment/static/js/main.0a7aeb02.js",
+    "index.html": "/Motif-Frontend-Assignment/index.html",
+    "main.0a7aeb02.js.map": "/Motif-Frontend-Assignment/static/js/main.0a7aeb02.js.map"
   },
   "entrypoints": [
-    "static/js/main.00c56b3d.js"
+    "static/js/main.0a7aeb02.js"
   ]
 }
